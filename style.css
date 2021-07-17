@@ -1,0 +1,57 @@
+html{
+    background-image:url("https://media.istockphoto.com/photos/donation-money-jar-filled-with-coins-in-front-of-holiday-lights-picture-id1171764212?k=6&m=1171764212&s=170667a&w=0&h=6qCC7Y8F_TtbJI-71xAylXDTERc-c3MkddMsYBgutNk=");
+    background-size:cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+}
+.heading{
+    
+    font-family: sans-serif, cursive;
+    color: black;
+    text-align:center;
+    font-size:30px;
+}
+.heading h2{
+    margin-top:10%;
+    margin-top:10px;
+    text-align: center;
+    color: black;
+}
+.mssg{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+    color: black;
+    margin-bottom:30px;
+    font-size: 20px;    
+}
+button:hover{
+    background-color:skyblue;
+}
+button{
+    border-radius: 50px;
+    padding:8px;
+    border:3px solid grey;
+   
+
+}
+.contact{
+    
+    font-size: cursive;
+}
+
+.btn{
+    margin:0;
+    position: center;
+    top:100%;
+    margin-bottom:20px;
+    text-align: center;
+}
+
+body{
+    top:-20%;
+    position: absolute;
+    padding: 160px 0;
+    left:17%;
+    width:50%;
+}
